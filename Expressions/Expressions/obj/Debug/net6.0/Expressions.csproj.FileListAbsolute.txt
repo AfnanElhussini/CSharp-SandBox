@@ -1,0 +1,15 @@
+D:\_March\C#\C#Projects\Expressions\Expressions\bin\Debug\net6.0\Expressions.exe
+D:\_March\C#\C#Projects\Expressions\Expressions\bin\Debug\net6.0\Expressions.deps.json
+D:\_March\C#\C#Projects\Expressions\Expressions\bin\Debug\net6.0\Expressions.runtimeconfig.json
+D:\_March\C#\C#Projects\Expressions\Expressions\bin\Debug\net6.0\Expressions.dll
+D:\_March\C#\C#Projects\Expressions\Expressions\bin\Debug\net6.0\Expressions.pdb
+D:\_March\C#\C#Projects\Expressions\Expressions\obj\Debug\net6.0\Expressions.csproj.AssemblyReference.cache
+D:\_March\C#\C#Projects\Expressions\Expressions\obj\Debug\net6.0\Expressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\_March\C#\C#Projects\Expressions\Expressions\obj\Debug\net6.0\Expressions.AssemblyInfoInputs.cache
+D:\_March\C#\C#Projects\Expressions\Expressions\obj\Debug\net6.0\Expressions.AssemblyInfo.cs
+D:\_March\C#\C#Projects\Expressions\Expressions\obj\Debug\net6.0\Expressions.csproj.CoreCompileInputs.cache
+D:\_March\C#\C#Projects\Expressions\Expressions\obj\Debug\net6.0\Expressions.dll
+D:\_March\C#\C#Projects\Expressions\Expressions\obj\Debug\net6.0\refint\Expressions.dll
+D:\_March\C#\C#Projects\Expressions\Expressions\obj\Debug\net6.0\Expressions.pdb
+D:\_March\C#\C#Projects\Expressions\Expressions\obj\Debug\net6.0\Expressions.genruntimeconfig.cache
+D:\_March\C#\C#Projects\Expressions\Expressions\obj\Debug\net6.0\ref\Expressions.dll
