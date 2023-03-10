@@ -1,0 +1,15 @@
+D:\_March\C#\C#Projects\Casting\Casting\bin\Debug\net6.0\Casting.exe
+D:\_March\C#\C#Projects\Casting\Casting\bin\Debug\net6.0\Casting.deps.json
+D:\_March\C#\C#Projects\Casting\Casting\bin\Debug\net6.0\Casting.runtimeconfig.json
+D:\_March\C#\C#Projects\Casting\Casting\bin\Debug\net6.0\Casting.dll
+D:\_March\C#\C#Projects\Casting\Casting\bin\Debug\net6.0\Casting.pdb
+D:\_March\C#\C#Projects\Casting\Casting\obj\Debug\net6.0\Casting.csproj.AssemblyReference.cache
+D:\_March\C#\C#Projects\Casting\Casting\obj\Debug\net6.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+D:\_March\C#\C#Projects\Casting\Casting\obj\Debug\net6.0\Casting.AssemblyInfoInputs.cache
+D:\_March\C#\C#Projects\Casting\Casting\obj\Debug\net6.0\Casting.AssemblyInfo.cs
+D:\_March\C#\C#Projects\Casting\Casting\obj\Debug\net6.0\Casting.csproj.CoreCompileInputs.cache
+D:\_March\C#\C#Projects\Casting\Casting\obj\Debug\net6.0\Casting.dll
+D:\_March\C#\C#Projects\Casting\Casting\obj\Debug\net6.0\refint\Casting.dll
+D:\_March\C#\C#Projects\Casting\Casting\obj\Debug\net6.0\Casting.pdb
+D:\_March\C#\C#Projects\Casting\Casting\obj\Debug\net6.0\Casting.genruntimeconfig.cache
+D:\_March\C#\C#Projects\Casting\Casting\obj\Debug\net6.0\ref\Casting.dll

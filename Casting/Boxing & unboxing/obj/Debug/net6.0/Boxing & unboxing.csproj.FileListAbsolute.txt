@@ -1,0 +1,15 @@
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\bin\Debug\net6.0\Boxing & unboxing.exe
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\bin\Debug\net6.0\Boxing & unboxing.deps.json
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\bin\Debug\net6.0\Boxing & unboxing.runtimeconfig.json
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\bin\Debug\net6.0\Boxing & unboxing.dll
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\bin\Debug\net6.0\Boxing & unboxing.pdb
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\obj\Debug\net6.0\Boxing & unboxing.csproj.AssemblyReference.cache
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\obj\Debug\net6.0\Boxing & unboxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\obj\Debug\net6.0\Boxing & unboxing.AssemblyInfoInputs.cache
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\obj\Debug\net6.0\Boxing & unboxing.AssemblyInfo.cs
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\obj\Debug\net6.0\Boxing & unboxing.csproj.CoreCompileInputs.cache
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\obj\Debug\net6.0\Boxing & unboxing.dll
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\obj\Debug\net6.0\refint\Boxing & unboxing.dll
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\obj\Debug\net6.0\Boxing & unboxing.pdb
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\obj\Debug\net6.0\Boxing & unboxing.genruntimeconfig.cache
+D:\_March\C#\C#Projects\Casting\Boxing & unboxing\obj\Debug\net6.0\ref\Boxing & unboxing.dll
