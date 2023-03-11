@@ -1,0 +1,15 @@
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\bin\Debug\net6.0\Field & Constant.exe
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\bin\Debug\net6.0\Field & Constant.deps.json
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\bin\Debug\net6.0\Field & Constant.runtimeconfig.json
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\bin\Debug\net6.0\Field & Constant.dll
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\bin\Debug\net6.0\Field & Constant.pdb
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\obj\Debug\net6.0\Field & Constant.csproj.AssemblyReference.cache
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\obj\Debug\net6.0\Field & Constant.GeneratedMSBuildEditorConfig.editorconfig
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\obj\Debug\net6.0\Field & Constant.AssemblyInfoInputs.cache
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\obj\Debug\net6.0\Field & Constant.AssemblyInfo.cs
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\obj\Debug\net6.0\Field & Constant.csproj.CoreCompileInputs.cache
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\obj\Debug\net6.0\Field & Constant.dll
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\obj\Debug\net6.0\refint\Field & Constant.dll
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\obj\Debug\net6.0\Field & Constant.pdb
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\obj\Debug\net6.0\Field & Constant.genruntimeconfig.cache
+D:\_March\C#\C#Projects\Field & Constant\Field & Constant\obj\Debug\net6.0\ref\Field & Constant.dll
